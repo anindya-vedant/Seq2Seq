@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Python-Deep-Learning-Projects\\Chapter05\\checkpoints_chatbot\\model-1"
+all_model_checkpoint_paths: "D:\\Python-Deep-Learning-Projects\\Chapter05\\checkpoints_chatbot\\model-1"
